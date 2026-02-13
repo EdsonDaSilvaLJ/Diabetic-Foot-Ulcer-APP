@@ -1,0 +1,24 @@
+# Arquivos temporários do Microsoft Office
+~$*.doc*
+~$*.ppt*
+~$*.xls*
+*.tmp
+
+# Arquivos temporários do LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Arquivos de backup
+*.bak
+*~
+.DS_Store
+
+# Arquivos muito grandes (descomente se necessário)
+# *.pdf
+# *.pptx
+# *.docx
