@@ -14,22 +14,22 @@ Sistema completo para análise e classificação de lesões em pé diabético ut
 
   <h3 align="center">🤖 Fluxo de Análise com IA (Detecção + Classificação)</h3>
   <p><em>O usuário captura a imagem, a IA detecta a lesão (YOLO) e classifica a gravidade (ResNet).</em></p>
-  <img src="./screenshots/flow_3.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_4.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_5.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_6.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_7.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_8.png" width="110" style="border-radius: 8px; margin: 3px" />
-  <img src="./screenshots/flow_9.png" width="110" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_3.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_4.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_5.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_6.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_7.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_8.png" width="140" style="border-radius: 8px; margin: 3px" />
+  <img src="./screenshots/flow_9.png" width="140" style="border-radius: 8px; margin: 3px" />
 
   <br><br>
 
   <h3 align="center">📊 Gestão de Pacientes & Histórico</h3>
-  <img src="./screenshots/flow_10.png" width="120" style="border-radius: 8px; margin: 5px" />
-  <img src="./screenshots/flow_11.png" width="120" style="border-radius: 8px; margin: 5px" />
-  <img src="./screenshots/flow_12.png" width="120" style="border-radius: 8px; margin: 5px" />
-  <img src="./screenshots/flow_13.png" width="120" style="border-radius: 8px; margin: 5px" />
-  <img src="./screenshots/flow_14.png" width="120" style="border-radius: 8px; margin: 5px" />
+  <img src="./screenshots/flow_10.png" width="140" style="border-radius: 8px; margin: 5px" />
+  <img src="./screenshots/flow_11.png" width="140" style="border-radius: 8px; margin: 5px" />
+  <img src="./screenshots/flow_12.png" width="140" style="border-radius: 8px; margin: 5px" />
+  <img src="./screenshots/flow_13.png" width="140" style="border-radius: 8px; margin: 5px" />
+  <img src="./screenshots/flow_14.png" width="140" style="border-radius: 8px; margin: 5px" />
 
 
 <br>
